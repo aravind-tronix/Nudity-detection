@@ -1,7 +1,7 @@
 # API Documentation
-* **URL**
+* **URL**  
 ` http://localhost:8080/url`  
-* **Method:**
+* **Method:**  
 `POST`
-*  **URL Params**
-{"url":"https://image.shutterstock.com/image-vector/male-human-body-belonging-adult-260nw-249408751.jpg"}
+*  **URL Params**  
+{"url":"url_of_valid_image_file"}
