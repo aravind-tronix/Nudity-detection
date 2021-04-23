@@ -8,7 +8,6 @@ from urllib.parse import urlparse
 import json
 from PIL import Image
 import base64
-import telegram
 from datetime import date
 import uuid
 import numpy as np
@@ -203,4 +202,3 @@ def upload_image():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0',port=8080 ,debug= True)
-    
