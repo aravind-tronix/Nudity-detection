@@ -14,4 +14,8 @@
  
  ## API Usage
  Read the API Documentation for API usage  
- https://github.com/aravind-tronix/Nudity-detection/blob/main/API.md
+ https://github.com/aravind-tronix/Nudity-detection/blob/main/API.md  
+ 
+ ## Live version of the API
+ Here is the live webapp which uses the API to detect nudity from a image
+ https://deeplearnai.ml/nsfw_detector
