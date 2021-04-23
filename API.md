@@ -44,7 +44,7 @@
 
   body form data
   
-  {"file":"image_file"}
+  `{"file":"image_file"}`
   
 * **Success Response:**
 
