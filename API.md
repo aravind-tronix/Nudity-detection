@@ -1,6 +1,8 @@
 # API Documentation
 * **URL**  
 
+  Endpoint for sending image via url
+
   ` http://localhost:8080/url`  
 
 * **Method:**  
@@ -8,6 +10,7 @@
   `POST`
 
 * **URL Params**  
+
 
   {"url":"url_of_valid_image_file"}
   
@@ -23,8 +26,5 @@
 
 * **Error Response:**  
 
-`{
-    "ScanResult": false,
-    "filename": "invalid file"
-}`
+  `{"ScanResult": false,"filename": "invalid file"}`
   
