@@ -10,4 +10,8 @@
  ## Usage
  Run the API by  
  `python app.py`
- The flask runs on port 8080 with local IP address
+ The flask runs on port 8080 with local IP address  
+ 
+ ## API Usage
+ Read the API Documentation for API usage  
+ https://github.com/aravind-tronix/Nudity-detection/blob/main/API.md
