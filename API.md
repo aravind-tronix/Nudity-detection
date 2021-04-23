@@ -1,12 +1,12 @@
 # API Documentation
 * **URL**  
 
-` http://localhost:8080/url`  
+  ` http://localhost:8080/url`  
 
 * **Method:**  
 
-`POST`
+  `POST`
 
-*  **URL Params**  
+* **URL Params**  
 
-{"url":"url_of_valid_image_file"}
+  {"url":"url_of_valid_image_file"}
