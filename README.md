@@ -6,7 +6,7 @@
  5. To use it in realtime application, this project is made in flask so that it can be consumed as an API for several applications and platforms like Telegram.  
  
  ## Installation
- First clone the repo and install required packages by
+ First clone the repo and install required packages by  
  `pip install -r requirements.txt`  
  thats it! The app is ready to run on flask.
  
