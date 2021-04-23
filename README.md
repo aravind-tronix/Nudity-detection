@@ -17,5 +17,9 @@
  https://github.com/aravind-tronix/Nudity-detection/blob/main/API.md  
  
  ## Live version of the API
- Here is the live webapp which uses the API to detect nudity from a image
+ Here is the live webapp which uses the API to detect nudity from a image  
  https://deeplearnai.ml/nsfw_detector
+
+## Issues
+This error is raises is certain OS like windows 10 and 7. 
+PermissionError after using cv2.imread on certain files/OS. This prevents deletion of the image file after the process is done. 
