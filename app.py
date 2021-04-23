@@ -197,7 +197,6 @@ def upload_image():
                 Result = open_img(image.filename)
                 return json.dumps({"filename":Result["filename"],"ScanResult":Result["ScannedImage"]})
             else:
-                print("That file extension is not allowed")
                 return json.dumps({"filename":"invalid file","ScanResult":False})
         return json.dumps({"filename":"invalid file","ScanResult":False})
 
