@@ -20,5 +20,11 @@
   If private parts are exposed in the image  
   
   `{"filename": "image_property", "ScanResult": "Private parts exposed"}`  
-  
+
+* **Error Response:**  
+
+`{
+    "ScanResult": false,
+    "filename": "invalid file"
+}`
   
