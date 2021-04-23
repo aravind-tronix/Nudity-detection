@@ -21,5 +21,5 @@
  https://deeplearnai.ml/nsfw_detector
 
 ## Issues
-This error is raises is certain OS like windows 10 and 7. 
+This error is raises in certain OS like windows 10 and 7  
 PermissionError after using cv2.imread on certain files/OS. This prevents deletion of the image file after the process is done. 
