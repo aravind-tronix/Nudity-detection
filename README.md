@@ -13,7 +13,7 @@
  
  ## Usage
  Run the API by  
- `python app.py`
+ `python app.py`  
  The flask runs on port 8080 with local IP address  
  
  ## API Usage
