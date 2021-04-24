@@ -1,9 +1,10 @@
 # Nudity detection
  1. The purpose of this project is to detect images which are NSFW i.e images exposing private parts of "Homo sapiens". Further it can be used to delete/reject such images.  
- 2. This app uses YOLOv3 custom trainned model for detecting.
- 3. I have used 1000's of images for the training purpose.
- 4. Training is done for 4000 iterations, you can add additional datasets and train the model for better results. 
- 5. To use it in realtime application, this project is made in flask so that it can be consumed as an API for several applications and platforms like Telegram.  
+ 2. This helps in rejecting such contents in social messaging platforms.
+ 3. This app uses YOLOv3 custom trainned model for detecting.
+ 4. I have used 1000's of images for the training purpose.
+ 5. Training is done for 4000 iterations, you can add additional datasets and train the model for better results. 
+ 6. To use it in realtime application, this project is made in flask so that it can be consumed as an API for several applications and platforms like Telegram.  
  
  ## Installation
  First clone the repo and install required packages by  
